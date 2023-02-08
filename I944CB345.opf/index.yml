@@ -1,0 +1,67 @@
+id: 61e56df1ff804e73b200f7ef9c83b987
+annotation_type: index
+revision: '00001'
+annotations:
+  dbe57a1b19d641d4945d7910e8db02e1:
+    base: 79DF.txt
+    Chapters:
+    - title: Title
+      span:
+        start: 0
+        end: 36
+    - title: §1
+      span:
+        start: 37
+        end: 428
+    - title: §2
+      span:
+        start: 429
+        end: 1409
+    - title: §3
+      span:
+        start: 1410
+        end: 2076
+    - title: §4
+      span:
+        start: 2077
+        end: 3920
+    - title: §5
+      span:
+        start: 3921
+        end: 4540
+    - title: §6
+      span:
+        start: 4541
+        end: 6431
+    - title: §7
+      span:
+        start: 6432
+        end: 6838
+    - title: §8
+      span:
+        start: 6839
+        end: 7620
+    - title: §9
+      span:
+        start: 7621
+        end: 11691
+    - title: §10
+      span:
+        start: 11692
+        end: 18734
+    - title: §11
+      span:
+        start: 18735
+        end: 20863
+    - title: §12
+      span:
+        start: 20864
+        end: 25347
+    - title: §13
+      span:
+        start: 25348
+        end: 25738
+    - title: Colophon
+      span:
+        start: 25739
+        end: 25749

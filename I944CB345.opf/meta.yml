@@ -1,0 +1,16 @@
+id: I944CB345
+default_language: zh
+source: https://www2.hf.uio.no/polyglotta/index.php?page=library&bid=2
+initial_creation_type: input
+imported: 2023-02-08 15:24:13.832259
+last_modified: 2023-02-08 15:24:13.832363
+source_metadata:
+  title: Sarvadharmāpravṛttinirdeśa
+  language: zh
+bases:
+  79DF:
+    base_file: 79DF.txt
+    order: 1
+copyright:
+  status: Unknown
+  notice: ''
